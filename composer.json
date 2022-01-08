@@ -1,11 +1,11 @@
 {
-    "name": "juliosolis/juliosolis/omnipay-fac-bac",
+    "name": "juliosolis/juliosolis/omnipay-bac-fac",
     "description": "First Atlantic Commerce driver for the Omnipay PHP payment processing library\n\n",
     "keywords": [
         "juliosolis",
-        "juliosolis/omnipay-fac-bac"
+        "juliosolis/omnipay-bac-fac"
     ],
-    "homepage": "https://github.com/juliosolis/omnipay-first-atlantic-commerce",
+    "homepage": "https://github.com/juliosolis/omnipay-bac-fac",
     "license": "MIT",
     "authors": [
         {

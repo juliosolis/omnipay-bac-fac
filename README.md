@@ -22,7 +22,7 @@ We invest a lot of resources into creating opensource products.
 You can install the package via composer:
 
 ```bash
-composer require juliosolis/omnipay-fac-bac
+composer require juliosolis/omnipay-bac-fac
 ```
 
 ## Usage
